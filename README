@@ -1,0 +1,10 @@
+Shen ECL is an implementation of Shen programming language using ECL Common Lisp as an implementation platform.
+
+To build it, run the following command:
+
+    ecl -norc -load install.lsp
+
+Not that this is still work in progress, and not yet complete implementation, so feel free to help finishing it.
+
+The license of this implementation is in LICENSE file. In case it infringes Shen license, the Shen license has precedence.
+
